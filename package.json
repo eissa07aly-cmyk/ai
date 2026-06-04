@@ -58,11 +58,11 @@
   "homepage": "https://ai-sdk.dev/docs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vercel/ai"
+    "url": "https://github.com/eissa07aly-cmyk/ai"
   },
   "license": "Apache License",
   "bugs": {
-    "url": "https://github.com/vercel/ai/issues"
+    "url": "https://github.com/eissa07aly-cmyk/ai/issues"
   },
   "keywords": [
     "ai"
