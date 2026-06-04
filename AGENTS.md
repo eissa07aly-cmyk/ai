@@ -4,9 +4,9 @@ This file provides context for AI coding assistants (Cursor, GitHub Copilot, Cla
 
 ## Project Overview
 
-The **AI SDK** by Vercel is a TypeScript/JavaScript SDK for building AI-powered applications with Large Language Models (LLMs). It provides a unified interface for multiple AI providers and framework integrations.
+The **AI SDK** by Vercel is a TypeScript/JavaScript SDK for building AI-powered applications with Large Language Models (LLMs). It provides a unified interface for multiple AI providers and frameworks. The SDK is designed to be lightweight, modular, and type-safe, enabling developers to build AI applications with minimal setup.
 
-- **Repository**: https://github.com/vercel/ai
+- **Repository**: https://github.com/eissa07aly-cmyk/ai
 - **Documentation**: https://ai-sdk.dev/docs
 - **License**: Apache-2.0
 
@@ -195,7 +195,7 @@ export class MyError extends AISDKError {
 
 ## Architecture Decision Records (ADRs)
 
-This repo uses ADRs in `contributing/decisions/` to capture important architecture decisions. Before making changes that touch architecture (new dependencies, new patterns, API design, infrastructure), check existing ADRs:
+This repo uses ADRs in `contributing/decisions/` to capture important architecture decisions. Before making changes that touch architecture (new dependencies, new patterns, API design, infrastructure), read the relevant ADRs:
 
 1. Read `contributing/decisions/README.md` for the index of decisions.
 2. Read any accepted ADRs relevant to your area of work. Follow the decisions and implementation patterns they specify.
